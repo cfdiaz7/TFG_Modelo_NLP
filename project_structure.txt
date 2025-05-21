@@ -1,0 +1,9 @@
+TFG_Modelo_NLP/
+├── data/              <- Datos de entrenamiento/pruebas
+├── models/            <- Modelos entrenados
+├── src/               <- Código fuente (scripts)
+│   ├── train.py       <- Script para entrenar el modelo
+│   └── utils.py       <- Funciones auxiliares
+├── notebooks/         <- Jupyter notebooks
+├── requirements.txt
+└── README.md
