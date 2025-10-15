@@ -31,10 +31,6 @@ TFG_Modelo_NLP/
 - scikit-learn
 - pandas
 
-Instalar las dependencias con:
-```bash
-pip install -r requirements.txt
-```
 Cómo ejecutar
 
 Clona el repositorio:
