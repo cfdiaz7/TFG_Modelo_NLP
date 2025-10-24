@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar datos y modelos grandes
+data/
+src/models/
+*.safetensors
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
